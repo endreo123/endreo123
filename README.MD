@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm curently learning TypeScript, React and PHP
+I'm curently learning TypeScript and Python
 
 
 ## 🌐 Socials:
